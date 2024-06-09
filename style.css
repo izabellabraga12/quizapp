@@ -48,8 +48,8 @@ header {
 }
 
 .tema button {
-    width: 32px;
     height: 20px;
+    width: 32px;
     background: var(--purple);
     border: 0;
     border-radius: 999px;
@@ -152,7 +152,17 @@ main {
     }
 
     .tema img {
+        width: 24px;
+    }
 
+    .tema button {
+        width: 48px;
+        height: 28px;
+    }
+
+    .tema button div {
+        width: 20px;
+        height: 20px;
     }
 
     main {
